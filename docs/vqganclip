@@ -1,106 +1,106 @@
-<mxfile host="app.diagrams.net" modified="2021-08-09T13:15:48.418Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="LbfFOUOGv4Kymph8sBB7" version="14.9.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-09T13:26:49.133Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="sNnPgQqpkEz-oWGW3UNZ" version="14.9.5" type="github">
   <diagram name="Page-1" id="c7558073-3199-34d8-9f00-42111426c3f3">
-    <mxGraphModel dx="1646" dy="852" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="1">
+    <mxGraphModel dx="1646" dy="852" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="#283618" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="hWget_CD5pk67O82Yvbn-123" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;sketch=1;curved=1;" edge="1" parent="1" source="hWget_CD5pk67O82Yvbn-96" target="hWget_CD5pk67O82Yvbn-97">
+        <mxCell id="hWget_CD5pk67O82Yvbn-123" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;sketch=1;curved=1;labelBackgroundColor=#283618;strokeColor=#DDA15E;fontColor=#FEFAE0;" edge="1" parent="1" source="hWget_CD5pk67O82Yvbn-96" target="hWget_CD5pk67O82Yvbn-97">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hWget_CD5pk67O82Yvbn-124" value="Retrive Job Status" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];sketch=1;rounded=1;" vertex="1" connectable="0" parent="hWget_CD5pk67O82Yvbn-123">
+        <mxCell id="hWget_CD5pk67O82Yvbn-124" value="4. Retrive Job Status" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];sketch=1;rounded=1;labelBackgroundColor=#283618;fontColor=#FEFAE0;" vertex="1" connectable="0" parent="hWget_CD5pk67O82Yvbn-123">
           <mxGeometry x="0.0795" y="-1" relative="1" as="geometry">
-            <mxPoint x="7" y="14" as="offset" />
+            <mxPoint x="24" y="14" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hWget_CD5pk67O82Yvbn-125" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;sketch=1;curved=1;" edge="1" parent="1" source="hWget_CD5pk67O82Yvbn-96" target="hWget_CD5pk67O82Yvbn-97">
+        <mxCell id="hWget_CD5pk67O82Yvbn-125" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;sketch=1;curved=1;labelBackgroundColor=#283618;strokeColor=#DDA15E;fontColor=#FEFAE0;" edge="1" parent="1" source="hWget_CD5pk67O82Yvbn-96" target="hWget_CD5pk67O82Yvbn-97">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hWget_CD5pk67O82Yvbn-126" value="Retrieve Recommands" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];sketch=1;rounded=1;" vertex="1" connectable="0" parent="hWget_CD5pk67O82Yvbn-125">
+        <mxCell id="hWget_CD5pk67O82Yvbn-126" value="0. Recommand Text During Typing" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];sketch=1;rounded=1;labelBackgroundColor=#283618;fontColor=#FEFAE0;" vertex="1" connectable="0" parent="hWget_CD5pk67O82Yvbn-125">
           <mxGeometry x="0.0019" y="1" relative="1" as="geometry">
-            <mxPoint x="40" y="-14" as="offset" />
+            <mxPoint x="21" y="-14" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hWget_CD5pk67O82Yvbn-96" value="ElasticSearch" style="whiteSpace=wrap;html=1;fillColor=#FFFF99;sketch=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="hWget_CD5pk67O82Yvbn-96" value="ElasticSearch" style="whiteSpace=wrap;html=1;fillColor=#BC6C25;sketch=1;rounded=1;strokeColor=#DDA15E;fontColor=#FEFAE0;" vertex="1" parent="1">
           <mxGeometry x="90" y="150" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hWget_CD5pk67O82Yvbn-111" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;sketch=1;curved=1;" edge="1" parent="1" source="hWget_CD5pk67O82Yvbn-97" target="hWget_CD5pk67O82Yvbn-129">
+        <mxCell id="hWget_CD5pk67O82Yvbn-111" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;sketch=1;curved=1;labelBackgroundColor=#283618;strokeColor=#DDA15E;fontColor=#FEFAE0;" edge="1" parent="1" source="hWget_CD5pk67O82Yvbn-97" target="hWget_CD5pk67O82Yvbn-129">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hWget_CD5pk67O82Yvbn-112" value="Send Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];sketch=1;rounded=1;" vertex="1" connectable="0" parent="hWget_CD5pk67O82Yvbn-111">
+        <mxCell id="hWget_CD5pk67O82Yvbn-112" value="1. Send Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];sketch=1;rounded=1;labelBackgroundColor=#283618;fontColor=#FEFAE0;" vertex="1" connectable="0" parent="hWget_CD5pk67O82Yvbn-111">
           <mxGeometry x="-0.0704" relative="1" as="geometry">
             <mxPoint x="-52" y="-15" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hWget_CD5pk67O82Yvbn-132" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;sketch=1;curved=1;" edge="1" parent="1" source="hWget_CD5pk67O82Yvbn-97" target="hWget_CD5pk67O82Yvbn-96">
+        <mxCell id="hWget_CD5pk67O82Yvbn-132" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;sketch=1;curved=1;labelBackgroundColor=#283618;strokeColor=#DDA15E;fontColor=#FEFAE0;" edge="1" parent="1" source="hWget_CD5pk67O82Yvbn-97" target="hWget_CD5pk67O82Yvbn-96">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hWget_CD5pk67O82Yvbn-133" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;sketch=1;curved=1;" edge="1" parent="1" source="hWget_CD5pk67O82Yvbn-97" target="hWget_CD5pk67O82Yvbn-96">
+        <mxCell id="hWget_CD5pk67O82Yvbn-133" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;sketch=1;curved=1;labelBackgroundColor=#283618;strokeColor=#DDA15E;fontColor=#FEFAE0;" edge="1" parent="1" source="hWget_CD5pk67O82Yvbn-97" target="hWget_CD5pk67O82Yvbn-96">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hWget_CD5pk67O82Yvbn-97" value="Web Browser" style="whiteSpace=wrap;html=1;fillColor=none;sketch=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="hWget_CD5pk67O82Yvbn-97" value="Web Browser" style="whiteSpace=wrap;html=1;fillColor=none;sketch=1;rounded=1;strokeColor=#DDA15E;fontColor=#FEFAE0;" vertex="1" parent="1">
           <mxGeometry x="332.5" y="70" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hWget_CD5pk67O82Yvbn-119" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;sketch=1;curved=1;" edge="1" parent="1" source="hWget_CD5pk67O82Yvbn-129" target="hWget_CD5pk67O82Yvbn-97">
+        <mxCell id="hWget_CD5pk67O82Yvbn-119" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;sketch=1;curved=1;labelBackgroundColor=#283618;strokeColor=#DDA15E;fontColor=#FEFAE0;" edge="1" parent="1" source="hWget_CD5pk67O82Yvbn-129" target="hWget_CD5pk67O82Yvbn-97">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hWget_CD5pk67O82Yvbn-120" value="Return Job Id" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];sketch=1;rounded=1;" vertex="1" connectable="0" parent="hWget_CD5pk67O82Yvbn-119">
+        <mxCell id="hWget_CD5pk67O82Yvbn-120" value="3. Return Job Id" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];sketch=1;rounded=1;labelBackgroundColor=#283618;fontColor=#FEFAE0;" vertex="1" connectable="0" parent="hWget_CD5pk67O82Yvbn-119">
           <mxGeometry x="-0.2365" relative="1" as="geometry">
             <mxPoint x="-46" y="15" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hWget_CD5pk67O82Yvbn-127" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;sketch=1;curved=1;" edge="1" parent="1" source="hWget_CD5pk67O82Yvbn-98" target="hWget_CD5pk67O82Yvbn-100">
+        <mxCell id="hWget_CD5pk67O82Yvbn-127" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;sketch=1;curved=1;labelBackgroundColor=#283618;strokeColor=#DDA15E;fontColor=#FEFAE0;" edge="1" parent="1" source="hWget_CD5pk67O82Yvbn-98" target="hWget_CD5pk67O82Yvbn-100">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hWget_CD5pk67O82Yvbn-128" value="Get Job" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];sketch=1;rounded=1;" vertex="1" connectable="0" parent="hWget_CD5pk67O82Yvbn-127">
+        <mxCell id="hWget_CD5pk67O82Yvbn-128" value="4. Get Job" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];sketch=1;rounded=1;labelBackgroundColor=#283618;fontColor=#FEFAE0;" vertex="1" connectable="0" parent="hWget_CD5pk67O82Yvbn-127">
           <mxGeometry x="0.2075" y="1" relative="1" as="geometry">
             <mxPoint x="15" y="-11" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hWget_CD5pk67O82Yvbn-98" value="Redis" style="whiteSpace=wrap;html=1;fillColor=#FFFF99;sketch=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="hWget_CD5pk67O82Yvbn-98" value="Redis" style="whiteSpace=wrap;html=1;fillColor=#BC6C25;sketch=1;rounded=1;strokeColor=#DDA15E;fontColor=#FEFAE0;" vertex="1" parent="1">
           <mxGeometry x="585" y="260" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hWget_CD5pk67O82Yvbn-104" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curved=1;" edge="1" parent="1" source="hWget_CD5pk67O82Yvbn-100" target="hWget_CD5pk67O82Yvbn-101">
+        <mxCell id="hWget_CD5pk67O82Yvbn-104" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curved=1;labelBackgroundColor=#283618;strokeColor=#DDA15E;fontColor=#FEFAE0;" edge="1" parent="1" source="hWget_CD5pk67O82Yvbn-100" target="hWget_CD5pk67O82Yvbn-101">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hWget_CD5pk67O82Yvbn-110" value="Save Image" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];sketch=1;rounded=1;" vertex="1" connectable="0" parent="hWget_CD5pk67O82Yvbn-104">
+        <mxCell id="hWget_CD5pk67O82Yvbn-110" value="5. Save Image" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];sketch=1;rounded=1;labelBackgroundColor=#283618;fontColor=#FEFAE0;" vertex="1" connectable="0" parent="hWget_CD5pk67O82Yvbn-104">
           <mxGeometry x="0.04" y="-1" relative="1" as="geometry">
             <mxPoint x="8" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hWget_CD5pk67O82Yvbn-115" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curved=1;" edge="1" parent="1" source="hWget_CD5pk67O82Yvbn-100" target="hWget_CD5pk67O82Yvbn-102">
+        <mxCell id="hWget_CD5pk67O82Yvbn-115" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curved=1;labelBackgroundColor=#283618;strokeColor=#DDA15E;fontColor=#FEFAE0;" edge="1" parent="1" source="hWget_CD5pk67O82Yvbn-100" target="hWget_CD5pk67O82Yvbn-102">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hWget_CD5pk67O82Yvbn-116" value="Save Status" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];sketch=1;rounded=1;" vertex="1" connectable="0" parent="hWget_CD5pk67O82Yvbn-115">
+        <mxCell id="hWget_CD5pk67O82Yvbn-116" value="6. Save Status" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];sketch=1;rounded=1;labelBackgroundColor=#283618;fontColor=#FEFAE0;" vertex="1" connectable="0" parent="hWget_CD5pk67O82Yvbn-115">
           <mxGeometry x="-0.2555" y="1" relative="1" as="geometry">
             <mxPoint x="-16" y="-11" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hWget_CD5pk67O82Yvbn-100" value="RenderService&lt;br&gt;Cluster" style="whiteSpace=wrap;html=1;fillColor=#66FFB3;sketch=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="hWget_CD5pk67O82Yvbn-100" value="RenderService&lt;br&gt;Cluster" style="whiteSpace=wrap;html=1;fillColor=#BC6C25;sketch=1;rounded=1;strokeColor=#DDA15E;fontColor=#FEFAE0;" vertex="1" parent="1">
           <mxGeometry x="332.5" y="260" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hWget_CD5pk67O82Yvbn-101" value="S3" style="whiteSpace=wrap;html=1;fillColor=#CCE5FF;sketch=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="hWget_CD5pk67O82Yvbn-101" value="S3" style="whiteSpace=wrap;html=1;fillColor=#BC6C25;sketch=1;rounded=1;strokeColor=#DDA15E;fontColor=#FEFAE0;" vertex="1" parent="1">
           <mxGeometry x="332.5" y="370" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hWget_CD5pk67O82Yvbn-117" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curved=1;" edge="1" parent="1" source="hWget_CD5pk67O82Yvbn-102" target="hWget_CD5pk67O82Yvbn-96">
+        <mxCell id="hWget_CD5pk67O82Yvbn-117" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curved=1;labelBackgroundColor=#283618;strokeColor=#DDA15E;fontColor=#FEFAE0;" edge="1" parent="1" source="hWget_CD5pk67O82Yvbn-102" target="hWget_CD5pk67O82Yvbn-96">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hWget_CD5pk67O82Yvbn-118" value="Sync Update" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];sketch=1;rounded=1;" vertex="1" connectable="0" parent="hWget_CD5pk67O82Yvbn-117">
+        <mxCell id="hWget_CD5pk67O82Yvbn-118" value="7. Sync Update" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];sketch=1;rounded=1;labelBackgroundColor=#283618;fontColor=#FEFAE0;" vertex="1" connectable="0" parent="hWget_CD5pk67O82Yvbn-117">
           <mxGeometry x="-0.24" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hWget_CD5pk67O82Yvbn-102" value="MySQL" style="whiteSpace=wrap;html=1;fillColor=#FFFF99;sketch=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="hWget_CD5pk67O82Yvbn-102" value="MySQL" style="whiteSpace=wrap;html=1;fillColor=#BC6C25;sketch=1;rounded=1;strokeColor=#DDA15E;fontColor=#FEFAE0;" vertex="1" parent="1">
           <mxGeometry x="90" y="260" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hWget_CD5pk67O82Yvbn-130" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curved=1;" edge="1" parent="1" source="hWget_CD5pk67O82Yvbn-129" target="hWget_CD5pk67O82Yvbn-98">
+        <mxCell id="hWget_CD5pk67O82Yvbn-130" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curved=1;labelBackgroundColor=#283618;strokeColor=#DDA15E;fontColor=#FEFAE0;" edge="1" parent="1" source="hWget_CD5pk67O82Yvbn-129" target="hWget_CD5pk67O82Yvbn-98">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hWget_CD5pk67O82Yvbn-131" value="Create Job" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];sketch=1;rounded=1;" vertex="1" connectable="0" parent="hWget_CD5pk67O82Yvbn-130">
+        <mxCell id="hWget_CD5pk67O82Yvbn-131" value="2. Create Job" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];sketch=1;rounded=1;labelBackgroundColor=#283618;fontColor=#FEFAE0;" vertex="1" connectable="0" parent="hWget_CD5pk67O82Yvbn-130">
           <mxGeometry x="-0.2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hWget_CD5pk67O82Yvbn-129" value="Web Service" style="whiteSpace=wrap;html=1;fillColor=#FFFF99;sketch=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="hWget_CD5pk67O82Yvbn-129" value="Web Service" style="whiteSpace=wrap;html=1;fillColor=#BC6C25;sketch=1;rounded=1;strokeColor=#DDA15E;fontColor=#FEFAE0;" vertex="1" parent="1">
           <mxGeometry x="585" y="150" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
